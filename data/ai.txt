@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines.
+
+AI systems can learn from data, recognize patterns, and make decisions.
+
+Applications include healthcare diagnosis, autonomous driving, finance fraud detection,
+robotics, and natural language processing.
+
+AI is a broad field including machine learning, deep learning, and reinforcement learning.

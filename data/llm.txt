@@ -1,0 +1,8 @@
+Large Language Models are neural networks trained on massive datasets of text.
+
+Examples include GPT models, LLaMA, Mistral, and Claude.
+
+LLMs can perform tasks such as question answering, summarization,
+translation, and code generation.
+
+They are the foundation of modern generative AI applications.

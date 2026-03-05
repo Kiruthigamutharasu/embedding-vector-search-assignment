@@ -1,0 +1,8 @@
+Machine Learning is a subset of Artificial Intelligence.
+
+It focuses on building algorithms that learn patterns from data.
+
+Major categories include supervised learning, unsupervised learning, and reinforcement learning.
+
+Machine learning is widely used in recommendation systems,
+image recognition, and predictive analytics.

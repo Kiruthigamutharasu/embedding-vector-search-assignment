@@ -1,0 +1,7 @@
+Vector databases store numerical embeddings representing text, images, or other data.
+
+Embeddings capture semantic meaning so similar concepts are close in vector space.
+
+Vector databases enable similarity search using metrics like cosine similarity.
+
+Popular vector databases include FAISS, ChromaDB, Pinecone, and Weaviate.
