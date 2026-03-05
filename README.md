@@ -6,29 +6,7 @@ In this assignment, I built a **Personal Knowledge Search Engine** using embeddi
 
 The goal was to convert documents into embeddings and perform **semantic similarity search** to retrieve the most relevant information.
 
-This assignment demonstrates the **core retrieval foundation used in Retrieval Augmented Generation (RAG) systems**.
-
----
-
-# Project Structure
-embedding-vector-search/
-
-│
-├── notebook.ipynb # Main assignment notebook
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-├── .env # OpenAI API key
-│
-├── data/ # Sample documents
-│ ├── ai.txt
-│ ├── llm.txt
-│ ├── ml.txt
-│ ├── rag.txt
-│ ├── vector_db.txt
-│
-├── faiss_index/ # Saved FAISS vector index
-├── chroma_db/ # Chroma persistent vector database
-
+This assignment demonstrates the **core retrieval foundation used in Retrieval Augmented Generation (RAG) systems**
 
 ---
 
@@ -238,4 +216,5 @@ Run all cells sequentially.
 - HuggingFace Sentence Transformers
 - Ollama
 - FAISS
+
 - ChromaDB
